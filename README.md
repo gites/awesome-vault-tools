@@ -30,6 +30,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/keyparty/vault-init - K8s Init Container for Vault Token Generation and Retrieval
 - https://github.com/kelseyhightower/vault-controller - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
 - https://github.com/Boostport/kubernetes-vault - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
+- https://github.com/sethvargo/vault-kubernetes-authenticator - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method
 
 # Other
 - https://github.com/asteris-llc/vaultfs - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
