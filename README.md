@@ -9,6 +9,8 @@ Awesome tools around HashiCorp Vault
 
 # Plugins
 - https://github.com/nhuff/vault-plugin-auth-chefnode - The "chef-node" auth backend allows Nodes registered with a Chef server to authenticate using their private keys.
+- https://github.com/criteo/vault-auth-plugin-chef - Vault Authentication plugin for Chef.
+- https://github.com/svagner/vault-auth-chef - Chef authorization plugin for Hashicorp Vault.
 - https://github.com/fcantournet/kubernetes-flexvolume-vault-plugin - A kubernetes flexvolume plugin that injects vault tokens at pod creation
 - https://github.com/sethvargo/vault-secrets-gen - A Vault secrets plugin for generating high entropy passwords and passphrases.
 - https://github.com/sethvargo/vault-auth-slack - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
