@@ -3,7 +3,7 @@ Awesome tools around HashiCorp Vault
 
 # UI
 - https://github.com/djenriquez/vault-ui Vault-UI — A beautiful UI to manage your Vault, written in React
-- https://github.com/Caiyeon/goldfish - A HashiCorp Vault UI panel written with VueJS and Vault native Go API 
+- https://github.com/Caiyeon/goldfish - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
   - Demo: https://vault-ui.io
 - https://github.com/nyxcharon/vault-ui -  A webapp for working with Hashicorp's Vault
 
@@ -17,6 +17,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/gites/vault-auth-file - HashiCorp Vault authentication plugin for authenticating via Unix password like file.
 
 # Ops
+- https://github.com/avantoss/vault-infra -  Packer and Terraform to create a fully automated and HA Vault deployment.
 - https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml
 - https://github.com/seatgeek/hashi-helper - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
 - https://github.com/UKHomeOffice/vaultctl - Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
@@ -26,6 +27,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/paywithcurl/vault-update - The vault client does not allow for a single key in a secret to be updated, the current work around is
 
 # Users
+- https://github.com/Lingrino/vaku - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
 - https://github.com/Mykolaichenko/gotools/tree/master/vaulter - Vaulter extends default Hashicorp Vault client, implements additional methods like list all backend path, dynamically read value, search in all backend and so on.
 - https://github.com/apptio/breakglass - Breakglass is a tool that will make API calls to Hashicorp Vault servers and then retrieve credentials for you. It's designed to ease the process of getting elevated login credentials for a variety of servers. It currently supports MySQL servers and SSH Command line access.
 
@@ -36,9 +38,9 @@ Awesome tools around HashiCorp Vault
 - https://github.com/Boostport/kubernetes-vault - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
 - https://github.com/sethvargo/vault-kubernetes-authenticator - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method
 - https://github.com/UKHomeOffice/vault-sidekick - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
-- https://github.com/banzaicloud/bank-vaults - A Vault swiss-army knife: Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). A K8s operator. 
+- https://github.com/banzaicloud/bank-vaults - A Vault swiss-army knife: Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). A K8s operator.
 
 # Other
 - https://github.com/asteris-llc/vaultfs - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
-- https://github.com/gites/vault-cert-helper - 
+- https://github.com/gites/vault-cert-helper -
 Vault-cert-helper is a simple tool intended to help you provision certificates from on-premises Vault to services running in AWS and GCE (or any other S3 compatible cloud).
