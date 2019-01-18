@@ -17,6 +17,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/gites/vault-auth-file - HashiCorp Vault authentication plugin for authenticating via Unix password like file.
 
 # Ops
+- https://github.com/avantoss/vault-infra -  Packer and Terraform to create a fully automated and HA Vault deployment.
 - https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml
 - https://github.com/seatgeek/hashi-helper - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
 - https://github.com/UKHomeOffice/vaultctl - Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
@@ -26,6 +27,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/paywithcurl/vault-update - The vault client does not allow for a single key in a secret to be updated, the current work around is
 
 # Users
+- https://github.com/Lingrino/vaku - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
 - https://github.com/Mykolaichenko/gotools/tree/master/vaulter - Vaulter extends default Hashicorp Vault client, implements additional methods like list all backend path, dynamically read value, search in all backend and so on.
 - https://github.com/apptio/breakglass - Breakglass is a tool that will make API calls to Hashicorp Vault servers and then retrieve credentials for you. It's designed to ease the process of getting elevated login credentials for a variety of servers. It currently supports MySQL servers and SSH Command line access.
 
