@@ -19,6 +19,7 @@ Awesome tools around HashiCorp Vault
 # Ops
 - https://github.com/avantoss/vault-infra -  Packer and Terraform to create a fully automated and HA Vault deployment.
 - https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml
+- https://gitlab.com/msvechla/vaultbot - A certbot like tool to provision certificates from a Vault managed CA.
 - https://github.com/seatgeek/hashi-helper - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
 - https://github.com/UKHomeOffice/vaultctl - Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
 - https://github.com/cloudwatt/vault-sync - Vault-sync is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
