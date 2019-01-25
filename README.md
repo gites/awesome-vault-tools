@@ -17,6 +17,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/gites/vault-auth-file - HashiCorp Vault authentication plugin for authenticating via Unix password like file.
 
 # Ops
+- https://github.com/starkandwayne/safe - A Vault CLI
 - https://github.com/avantoss/vault-infra -  Packer and Terraform to create a fully automated and HA Vault deployment.
 - https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml
 - https://gitlab.com/msvechla/vaultbot - A certbot like tool to provision certificates from a Vault managed CA.
