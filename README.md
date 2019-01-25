@@ -41,6 +41,8 @@ Awesome tools around HashiCorp Vault
 - https://github.com/sethvargo/vault-kubernetes-authenticator - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method
 - https://github.com/UKHomeOffice/vault-sidekick - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 - https://github.com/banzaicloud/bank-vaults - A Vault swiss-army knife: Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). A K8s operator. 
+- https://github.com/uswitch/vault-webhook - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods
+- https://github.com/uswitch/vault-creds - Sidecar container for requesting dynamic Vault database secrets
 
 # Other
 - https://github.com/asteris-llc/vaultfs - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
