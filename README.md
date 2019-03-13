@@ -6,6 +6,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/Caiyeon/goldfish - A HashiCorp Vault UI panel written with VueJS and Vault native Go API 
   - Demo: https://vault-ui.io
 - https://github.com/nyxcharon/vault-ui -  A webapp for working with Hashicorp's Vault
+- https://github.com/adobe/cryptr - Cryptr is a GUI for Hashicorp's Vault
 
 # Plugins
 - https://github.com/nhuff/vault-plugin-auth-chefnode - The "chef-node" auth backend allows Nodes registered with a Chef server to authenticate using their private keys.
