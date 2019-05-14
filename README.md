@@ -16,6 +16,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/sethvargo/vault-secrets-gen - A Vault secrets plugin for generating high entropy passwords and passphrases.
 - https://github.com/sethvargo/vault-auth-slack - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
 - https://github.com/gites/vault-auth-file - HashiCorp Vault authentication plugin for authenticating via Unix password like file.
+- https://github.com/idcmp/vault-plugin-secrets-webhook - Use Vault ACLs to control access to other REST APIs.
 
 # Ops
 - https://github.com/starkandwayne/safe - A Vault CLI
