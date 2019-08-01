@@ -19,6 +19,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/idcmp/vault-plugin-secrets-webhook - Use Vault ACLs to control access to other REST APIs.
 
 # Ops
+- https://github.com/hootsuite/vault-ctrl-tool - Outsource authentication, secrets fetching, and lease management for services.
 - https://github.com/starkandwayne/safe - A Vault CLI
 - https://github.com/avantoss/vault-infra -  Packer and Terraform to create a fully automated and HA Vault deployment.
 - https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml
