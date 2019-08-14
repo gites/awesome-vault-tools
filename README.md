@@ -2,11 +2,11 @@
 Awesome tools around HashiCorp Vault
 
 # UI
-- https://github.com/djenriquez/vault-ui Vault-UI — A beautiful UI to manage your Vault, written in React
-- https://github.com/Caiyeon/goldfish - A HashiCorp Vault UI panel written with VueJS and Vault native Go API 
+- https://github.com/djenriquez/vault-ui Vault-UI — A beautiful UI to manage your Vault, written in React.
+- https://github.com/Caiyeon/goldfish - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
   - Demo: https://vault-ui.io
-- https://github.com/nyxcharon/vault-ui -  A webapp for working with Hashicorp's Vault
-- https://github.com/adobe/cryptr - Cryptr is a GUI for Hashicorp's Vault
+- https://github.com/nyxcharon/vault-ui -  A webapp for working with Hashicorp's Vault.
+- https://github.com/adobe/cryptr - Cryptr is a GUI for Hashicorp's Vault.
 
 # Plugins
 - https://github.com/nhuff/vault-plugin-auth-chefnode - The "chef-node" auth backend allows Nodes registered with a Chef server to authenticate using their private keys.
@@ -20,16 +20,16 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 - https://github.com/hootsuite/vault-ctrl-tool - Outsource authentication, secrets fetching, and lease management for services.
-- https://github.com/starkandwayne/safe - A Vault CLI
+- https://github.com/starkandwayne/safe - A Vault CLI.
 - https://github.com/avantoss/vault-infra -  Packer and Terraform to create a fully automated and HA Vault deployment.
-- https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml
+- https://github.com/bincyber/pkictl - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml.
 - https://gitlab.com/msvechla/vaultbot - A certbot like tool to provision certificates from a Vault managed CA.
 - https://github.com/seatgeek/hashi-helper - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
 - https://github.com/UKHomeOffice/vaultctl - Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
 - https://github.com/cloudwatt/vault-sync - Vault-sync is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
-- https://github.com/jaxxstorm/unseal - **[deprecated]** A command line tool to unseal multiple Hashicorp Vault servers quickly
-- https://github.com/jaxxstorm/hookpick - A tool to manage some operational concepts of Hashicorp Vault
-- https://github.com/paywithcurl/vault-update - The vault client does not allow for a single key in a secret to be updated, the current work around is
+- https://github.com/jaxxstorm/unseal - **[deprecated]** A command line tool to unseal multiple Hashicorp Vault servers quickly.
+- https://github.com/jaxxstorm/hookpick - A tool to manage some operational concepts of Hashicorp Vault.
+- https://github.com/paywithcurl/vault-update - Tool for updating a single key in vaullt secret.
 
 # Users
 - https://github.com/Lingrino/vaku - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
@@ -38,17 +38,17 @@ Awesome tools around HashiCorp Vault
 
 # K8s
 *Note: There is now official plugin for k8s: https://www.vaultproject.io/docs/auth/kubernetes.html*
-- https://github.com/keyparty/vault-init - K8s Init Container for Vault Token Generation and Retrieval
+- https://github.com/keyparty/vault-init - K8s Init Container for Vault Token Generation and Retrieval.
 - https://github.com/kelseyhightower/vault-controller - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
 - https://github.com/Boostport/kubernetes-vault - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
-- https://github.com/sethvargo/vault-kubernetes-authenticator - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method
+- https://github.com/sethvargo/vault-kubernetes-authenticator - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
 - https://github.com/UKHomeOffice/vault-sidekick - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 - https://github.com/banzaicloud/bank-vaults - A Vault swiss-army knife: Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). A K8s operator. 
-- https://github.com/uswitch/vault-webhook - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods
-- https://github.com/uswitch/vault-creds - Sidecar container for requesting dynamic Vault database secrets
+- https://github.com/uswitch/vault-webhook - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods.
+- https://github.com/uswitch/vault-creds - Sidecar container for requesting dynamic Vault database secrets.
 
 # Other
 - https://github.com/asteris-llc/vaultfs - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
 - https://github.com/gites/vault-cert-helper - 
 Vault-cert-helper is a simple tool intended to help you provision certificates from on-premises Vault to services running in AWS and GCE (or any other S3 compatible cloud).
-- https://github.com/channable/vaultenv - Launch processes with Vault secrets in the environment
+- https://github.com/channable/vaultenv - Launch processes with Vault secrets in the environment.
