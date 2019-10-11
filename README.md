@@ -35,6 +35,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/Lingrino/vaku - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
 - https://github.com/Mykolaichenko/vaulter - Vaulter extends default Hashicorp Vault client, implements additional methods like list all backend path, dynamically read value, search in all backend and so on.
 - https://github.com/apptio/breakglass - Breakglass is a tool that will make API calls to Hashicorp Vault servers and then retrieve credentials for you. It's designed to ease the process of getting elevated login credentials for a variety of servers. It currently supports MySQL servers and SSH Command line access.
+- https://github.com/ilijamt/vht/ - vht extends the functionality of Vault and adds searching, tree and recursive deletes.
 
 # K8s
 *Note: There is now official plugin for k8s: https://www.vaultproject.io/docs/auth/kubernetes.html*
