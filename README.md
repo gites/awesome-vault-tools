@@ -51,6 +51,8 @@ Awesome tools around HashiCorp Vault
 - https://github.com/cruise-automation/daytona - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 - https://github.com/postfinance/vault-kubernetes - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
 - https://github.com/postfinance/kubectl-vault_sync - Kubernetes plugin to synchronize secrets from vault as kubernetes secrets.
+- https://github.com/ricoberger/vault-secrets-operator - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+
 
 # Other
 - https://github.com/asteris-llc/vaultfs - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
