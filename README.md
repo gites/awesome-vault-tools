@@ -59,3 +59,4 @@ Awesome tools around HashiCorp Vault
 - https://github.com/gites/vault-cert-helper - 
 Vault-cert-helper is a simple tool intended to help you provision certificates from on-premises Vault to services running in AWS and GCE (or any other S3 compatible cloud).
 - https://github.com/channable/vaultenv - Launch processes with Vault secrets in the environment.
+- https://github.com/joemiller/vault-token-helper - Vault Token Helper for macOS, Linux and Windows with support for secure token storage and multiple Vault instances
