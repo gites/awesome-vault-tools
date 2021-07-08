@@ -32,6 +32,7 @@ Awesome tools around HashiCorp Vault
 - https://github.com/jaxxstorm/hookpick - A tool to manage some operational concepts of Hashicorp Vault.
 - https://github.com/paywithcurl/vault-update - Tool for updating a single key in vaullt secret.
 - https://github.com/martinbaillie/vaultsign - Sign and verify `git` commits and tags using Vault.
+- https://github.com/spectralops/teller - secrets management tool for developers, integrate Vault with any other secret and key store
 
 # Users
 - https://github.com/Lingrino/vaku - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
