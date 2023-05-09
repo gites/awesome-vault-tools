@@ -60,5 +60,6 @@ Awesome tools around HashiCorp Vault
 - https://github.com/asteris-llc/vaultfs - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
 - https://github.com/gites/vault-cert-helper - 
 Vault-cert-helper is a simple tool intended to help you provision certificates from on-premises Vault to services running in AWS and GCE (or any other S3 compatible cloud).
+- https://github.com/SorsOps/vault-env - A config based token retrieval system 
 - https://github.com/channable/vaultenv - Launch processes with Vault secrets in the environment.
 - https://github.com/joemiller/vault-token-helper - Vault Token Helper for macOS, Linux and Windows with support for secure token storage and multiple Vault instances
